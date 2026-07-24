@@ -1,6 +1,6 @@
 # Vexeral
 
-Shariah-compliant growth systems and high-performance engineering website, built with Next.js 16 (App Router), TypeScript, and Tailwind CSS v4.
+Marketing website for Vexeral, a Shariah-compliant growth systems company, built with Next.js 16 (App Router), TypeScript, and Tailwind CSS v4.
 
 ## Getting Started
 
@@ -20,8 +20,8 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Notes
 
+- The contact form is implemented in `components/contact.tsx` but isn't yet wired to an email or CRM provider - add one (e.g. Resend) before relying on it to reach an inbox.
 - Brand colors, typography, and design tokens are defined in `DESIGN.md` and implemented via Tailwind CSS custom properties in `app/globals.css`.
-- The purple/violet palette, serif display font (Newsreader), and mono label font (IBM Plex Mono) are part of the "Growth Architect" design system.
 
 ## Deploy
 

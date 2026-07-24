@@ -15,8 +15,8 @@ Open [http://localhost:3000](http://localhost:3000).
 
 - `app/` - routes: home (single-page landing with sections), about, faq, features, industries, integrations, resources/logistics-guide
 - `components/` - home-page sections (hero, trusted-by, problems, services, how-it-works, why-us, pricing, explore-more, contact, final-cta, footer)
-- `components/ui/` - shared UI (button, card, sheet, accordion, tabs, badge, separator, input)
-- `lib/utils.ts` - tailwind-merge/cn helper for class merging
+- `components/ui/` - shared UI (navbar, footer, logo, button, card, sheet, accordion)
+- `lib/utils.ts` - cn helper for tailwind-merge class merging
 
 ## Notes
 

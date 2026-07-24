@@ -13,11 +13,10 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Structure
 
-- `app/` - routes: home (single-page with sections), about, features, faq, industries, integrations, resources/logistics-guide
-- `components/` - home sections (hero, services, pricing, why-us, contact, footer) and shared UI (button, card, sheet, accordion, tabs)
-- `components/ui/` - reusable shadcn-style primitives
-- `lib/` - utilities (tailwind-merge/cn helper)
-- `public/` - brand assets, SVGs, shapes
+- `app/` - routes: home (single-page landing with sections), about, faq, features, industries, integrations, resources/logistics-guide
+- `components/` - home-page sections (hero, trusted-by, problems, services, how-it-works, why-us, pricing, explore-more, contact, final-cta, footer)
+- `components/ui/` - shared UI (button, card, sheet, accordion, tabs, badge, separator, input)
+- `lib/utils.ts` - tailwind-merge/cn helper for class merging
 
 ## Notes
 

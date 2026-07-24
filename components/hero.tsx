@@ -119,7 +119,7 @@ export function Hero() {
   return (
     <section
       id="top"
-      className="noise-overlay relative flex min-h-dvh flex-col overflow-hidden bg-canvas"
+      className="noise-overlay relative flex min-h-dvh flex-col overflow-x-hidden bg-canvas"
     >
       {/* Background: violet nebula + particle field */}
       <div className="absolute inset-0" aria-hidden="true">

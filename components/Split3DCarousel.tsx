@@ -240,7 +240,7 @@ export default function Split3DCarousel() {
   if (reduced) {
     return (
       <section ref={sectionRef} className="relative" style={{ height: SCROLL_HEIGHT }}>
-        <div className="sticky top-0 flex h-screen items-center overflow-hidden">
+        <div className="sticky top-0 flex h-dvh items-center overflow-hidden">
           <div className="mx-auto max-w-[1400px] px-6 lg:px-12 w-full">
             <div className="mb-14">
               <h2 className="font-serif text-4xl font-medium leading-[0.95] tracking-[-0.03em] text-foreground sm:text-5xl lg:text-[64px]">
@@ -267,7 +267,7 @@ export default function Split3DCarousel() {
 
   return (
     <section ref={sectionRef} className="relative" style={{ height: SCROLL_HEIGHT }}>
-      <div className="sticky top-0 flex h-screen items-center overflow-hidden">
+      <div className="sticky top-0 flex h-dvh items-center overflow-hidden">
         {/* Base dot grid — persistent */}
         <div
           className="pointer-events-none absolute inset-0"

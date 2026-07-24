@@ -1,5 +1,7 @@
 "use client";
 
+import { useEffect } from "react";
+
 export default function Error({
   error,
   reset,
@@ -7,13 +9,17 @@ export default function Error({
   error: Error & { digest?: string };
   reset: () => void;
 }) {
+  useEffect(() => {
+    console.error("Client error caught by boundary:", error);
+  }, [error]);
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-black px-6 text-center">
       <h1 className="font-serif text-3xl text-white lg:text-4xl">
         Something went wrong
       </h1>
       <p className="mt-4 max-w-md text-sm text-neutral-400">
-        Please try reloading the page. If the problem persists, contact support.
+        {error.message || "Please try reloading the page. If the problem persists, contact support."}
       </p>
       <button
         onClick={() => reset()}

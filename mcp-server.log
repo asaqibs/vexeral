@@ -1,0 +1,69 @@
+{"level":"info","message":"Starting React Bits MCP Server...","service":"react-bits-mcp-server","timestamp":"2026-07-07T21:07:25.994Z"}
+{"level":"info","message":"Setting up request handlers...","service":"react-bits-mcp-server","timestamp":"2026-07-07T21:07:26.001Z"}
+{"level":"info","message":"Handlers setup complete","service":"react-bits-mcp-server","timestamp":"2026-07-07T21:07:26.002Z"}
+{"level":"info","message":"Transport initialized: stdio","service":"react-bits-mcp-server","timestamp":"2026-07-07T21:07:26.002Z"}
+{"level":"info","message":"Server started successfully","service":"react-bits-mcp-server","timestamp":"2026-07-07T21:07:26.002Z"}
+{"componentName":"$1","level":"info","message":"Handling component_usage prompt","service":"react-bits-mcp-server","timestamp":"2026-07-07T21:07:26.524Z"}
+{"level":"info","message":"Handling component_discovery prompt","service":"react-bits-mcp-server","timestamp":"2026-07-07T21:07:26.528Z"}
+{"level":"info","message":"Found 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-07T21:07:26.544Z"}
+{"level":"info","message":"Starting React Bits MCP Server...","service":"react-bits-mcp-server","timestamp":"2026-07-09T19:51:22.912Z"}
+{"level":"info","message":"Setting up request handlers...","service":"react-bits-mcp-server","timestamp":"2026-07-09T19:51:22.919Z"}
+{"level":"info","message":"Handlers setup complete","service":"react-bits-mcp-server","timestamp":"2026-07-09T19:51:22.919Z"}
+{"level":"info","message":"Transport initialized: stdio","service":"react-bits-mcp-server","timestamp":"2026-07-09T19:51:22.919Z"}
+{"level":"info","message":"Server started successfully","service":"react-bits-mcp-server","timestamp":"2026-07-09T19:51:22.920Z"}
+{"componentName":"$1","level":"info","message":"Handling component_usage prompt","service":"react-bits-mcp-server","timestamp":"2026-07-09T19:51:22.990Z"}
+{"level":"info","message":"Handling component_discovery prompt","service":"react-bits-mcp-server","timestamp":"2026-07-09T19:51:22.993Z"}
+{"level":"info","message":"Found 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-09T19:51:23.022Z"}
+{"level":"info","message":"Starting React Bits MCP Server...","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:52:12.388Z"}
+{"level":"info","message":"Setting up request handlers...","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:52:12.398Z"}
+{"level":"info","message":"Handlers setup complete","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:52:12.398Z"}
+{"level":"info","message":"Transport initialized: stdio","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:52:12.399Z"}
+{"level":"info","message":"Server started successfully","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:52:12.399Z"}
+{"componentName":"$1","level":"info","message":"Handling component_usage prompt","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:52:12.534Z"}
+{"level":"info","message":"Handling component_discovery prompt","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:52:12.537Z"}
+{"level":"info","message":"Found 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:52:12.579Z"}
+{"level":"info","message":"Starting React Bits MCP Server...","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:59:18.332Z"}
+{"level":"info","message":"Setting up request handlers...","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:59:18.340Z"}
+{"level":"info","message":"Handlers setup complete","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:59:18.341Z"}
+{"level":"info","message":"Transport initialized: stdio","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:59:18.342Z"}
+{"level":"info","message":"Server started successfully","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:59:18.342Z"}
+{"componentName":"$1","level":"info","message":"Handling component_usage prompt","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:59:18.451Z"}
+{"level":"info","message":"Handling component_discovery prompt","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:59:18.455Z"}
+{"level":"info","message":"Found 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-09T21:59:18.477Z"}
+{"level":"info","message":"Starting React Bits MCP Server...","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:36:33.295Z"}
+{"level":"info","message":"Setting up request handlers...","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:36:33.304Z"}
+{"level":"info","message":"Handlers setup complete","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:36:33.304Z"}
+{"level":"info","message":"Transport initialized: stdio","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:36:33.304Z"}
+{"level":"info","message":"Server started successfully","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:36:33.305Z"}
+{"componentName":"$1","level":"info","message":"Handling component_usage prompt","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:36:33.406Z"}
+{"level":"info","message":"Handling component_discovery prompt","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:36:33.411Z"}
+{"level":"info","message":"Found 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:36:33.438Z"}
+{"level":"info","message":"Starting React Bits MCP Server...","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:38:45.474Z"}
+{"level":"info","message":"Setting up request handlers...","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:38:45.481Z"}
+{"level":"info","message":"Handlers setup complete","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:38:45.482Z"}
+{"level":"info","message":"Transport initialized: stdio","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:38:45.482Z"}
+{"level":"info","message":"Server started successfully","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:38:45.482Z"}
+{"componentName":"$1","level":"info","message":"Handling component_usage prompt","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:38:45.543Z"}
+{"level":"info","message":"Handling component_discovery prompt","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:38:45.546Z"}
+{"level":"info","message":"Found 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-13T21:38:45.556Z"}
+{"level":"info","message":"Starting React Bits MCP Server...","service":"react-bits-mcp-server","timestamp":"2026-07-14T21:22:07.122Z"}
+{"level":"info","message":"Setting up request handlers...","service":"react-bits-mcp-server","timestamp":"2026-07-14T21:22:07.131Z"}
+{"level":"info","message":"Handlers setup complete","service":"react-bits-mcp-server","timestamp":"2026-07-14T21:22:07.131Z"}
+{"level":"info","message":"Transport initialized: stdio","service":"react-bits-mcp-server","timestamp":"2026-07-14T21:22:07.132Z"}
+{"level":"info","message":"Server started successfully","service":"react-bits-mcp-server","timestamp":"2026-07-14T21:22:07.132Z"}
+{"componentName":"$1","level":"info","message":"Handling component_usage prompt","service":"react-bits-mcp-server","timestamp":"2026-07-14T21:22:07.228Z"}
+{"level":"info","message":"Handling component_discovery prompt","service":"react-bits-mcp-server","timestamp":"2026-07-14T21:22:07.233Z"}
+{"level":"info","message":"Found 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-14T21:22:07.249Z"}
+{"level":"info","message":"Starting React Bits MCP Server...","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:04:26.435Z"}
+{"level":"info","message":"Setting up request handlers...","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:04:26.442Z"}
+{"level":"info","message":"Handlers setup complete","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:04:26.443Z"}
+{"level":"info","message":"Transport initialized: stdio","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:04:26.443Z"}
+{"level":"info","message":"Server started successfully","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:04:26.443Z"}
+{"componentName":"$1","level":"info","message":"Handling component_usage prompt","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:04:26.521Z"}
+{"level":"info","message":"Handling component_discovery prompt","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:04:26.525Z"}
+{"level":"info","message":"Found 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:04:26.545Z"}
+{"level":"info","message":"Listing components","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:05:05.926Z"}
+{"level":"info","message":"Found 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:05:05.941Z"}
+{"level":"info","message":"Successfully listed 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:05:05.941Z"}
+{"level":"info","message":"Searching components with query: \"border glow\"","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:05:27.630Z"}
+{"level":"info","message":"Found 99 components","service":"react-bits-mcp-server","timestamp":"2026-07-15T22:05:27.644Z"}
